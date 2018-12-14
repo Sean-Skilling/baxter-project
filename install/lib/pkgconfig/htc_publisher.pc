@@ -1,0 +1,8 @@
+prefix=/home/seanskilling/baxter_ws/install
+
+Name: htc_publisher
+Description: Description of htc_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/seanskilling/baxter_ws/install/lib 
+Requires: 

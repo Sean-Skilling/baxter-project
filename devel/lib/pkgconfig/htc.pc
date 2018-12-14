@@ -1,0 +1,8 @@
+prefix=/home/seanskilling/baxter_ws/devel
+
+Name: htc
+Description: Description of htc
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/seanskilling/baxter_ws/devel/lib 
+Requires: 
